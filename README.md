@@ -1,14 +1,18 @@
+<!-- @format -->
+
 # Welcome to MediBot
 
 MediBot is a web application designed to provide instant medical assistance through a sophisticated chatbot interface. Whether you have medical questions or need reliable health information, MediBot is here to help.
+
+![Logo](demo_data/cartoon-bot.png)
 
 ---
 
 ## Features
 
-- **User Authentication**: Secure login and signup features ensure your privacy.
-- **Medical Chatbot**: Ask any medically relevant question and receive accurate answers promptly.
-- **Chat History Download**: Download your chat history for easy reference and record-keeping.
+-   **User Authentication**: Secure login and signup features ensure your privacy.
+-   **Medical Chatbot**: Ask any medically relevant question and receive accurate answers promptly.
+-   **Chat History Download**: Download your chat history for easy reference and record-keeping.
 
 ---
 
@@ -31,8 +35,9 @@ MediBot is a Medical Assistance Bot leveraging RAG (Retrieval Augmented Generati
 ---
 
 ### Key Features:
-- Utilizes RAG architecture to combine retrieval of relevant documents with generative capabilities.
-- Provides precise and context-aware responses based on extensive medical knowledge.
-- Supports a variety of medical queries ranging from symptoms and conditions to treatments and medications.
+
+-   Utilizes RAG architecture to combine retrieval of relevant documents with generative capabilities.
+-   Provides precise and context-aware responses based on extensive medical knowledge.
+-   Supports a variety of medical queries ranging from symptoms and conditions to treatments and medications.
 
 For more information about our chatbot, vector database, and embeddings, please visit the [Medical Chatbot RAG LLM GitHub Repository](https://github.com/RudrakshSJoshi/Medical_Chatbot_RAG_LLM).
