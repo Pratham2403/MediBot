@@ -22,6 +22,12 @@ To set up MediBot and configure your environment, please refer to the [CONFIG.md
 
 ---
 
+## Demo GIF
+
+![Demo GIF](demo_data/demo-gif.gif)
+
+---
+
 ## Knowledge Base
 
 For information about MediBot's chatbot knowledge base and how it operates, refer to [KNOWLEDGE_BASE.md](server/KNOWLEDGE_BASE.md) located in the server directory.
