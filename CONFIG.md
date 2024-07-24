@@ -1,3 +1,7 @@
+Got it! Let's focus on clarifying the setup steps in the `CONFIG.md` file while addressing the specific details you mentioned:
+
+---
+
 # Configuration Guide for Setting Up MediBot
 
 Follow these steps to set up and configure MediBot on your local machine.
