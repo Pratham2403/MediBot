@@ -46,13 +46,14 @@ client/src/*.jpeg
 client/src/*.png
 
 # Ignore files from the 'server' folder
-server/myenv/
-server/chroma/
-server/chroma.sqlite3
+python/myenv/
+python/chroma/
+python/chroma.sqlite3
 server/*.env
-server/*.pyc
-server/__pycache__/
+python/*.env
+python/*.pyc
+python/__pycache__/
 
 # Ignore specific files
 client/src/test.jpg
-server/main.py
+python/main.py
