@@ -51,6 +51,7 @@ python/chroma/
 python/chroma.sqlite3
 server/*.env
 python/*.env
+python/*venv
 python/*.pyc
 python/__pycache__/
 

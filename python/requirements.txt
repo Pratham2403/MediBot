@@ -1,9 +1,10 @@
-faiss-cpu
 flask
 flask-cors
+faiss-cpu
+Werkzeug
 python-dotenv
 langchain-community
 langchain_google_genai
+sentence-transformers
 torch
-fitz
-pymupdf
+PyMuPDF

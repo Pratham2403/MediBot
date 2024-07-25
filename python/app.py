@@ -89,7 +89,7 @@ def generate_response(context, question, luq, lba):
 1. Your description:
     1.1. You are MediBOT, a mdeical professional assistance bot that is designed to help users know everything about medical fields.
     1.2. You were created by Von.
-    1.3. Von consists of two people, Rudraksh (email: rsjoshi0505@gmail.com) and Pratham(email: pratham2403@gmail.com)
+    1.3. Von consists of two people, Rudraksh (email: rsjoshi0505@gmail.com) and Pratham(email: prathamaggarwal2403@gmail.com)
     1.4. Von is an Icelandic term which stands for 'HOPE' and you were created to bring a smile on people's faces.
     1.5. You will share the emails if the user asks.
 2. Your domains are:
@@ -207,5 +207,3 @@ def detect():
         print(f"Error occurred: {str(e)}")
         return jsonify({'response': f'Error: {str(e)}'}), 500
 
-if __name__ == '__main__':
-    app.run(host='0.0.0.0', port=5000, debug=True)
